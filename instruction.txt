@@ -1,0 +1,7 @@
+1 - download node with npm
+2:
+
+go to ~/clips/ folder (folder from archive) and execute next lines
+
+$ npm i
+$ yarn start
